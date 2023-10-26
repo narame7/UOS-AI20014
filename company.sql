@@ -1,4 +1,3 @@
--- Run this script directly in the MySQL server query window it will automatically create the database and all the database objects.
 
 
 DROP DATABASE IF EXISTS Company;
